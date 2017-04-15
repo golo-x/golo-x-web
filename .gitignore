@@ -1,0 +1,8 @@
+
+### Build
+target/
+jars/*.jar
+
+### vertx
+
+.vertx/
